@@ -1,0 +1,6 @@
+C:\Users\user\RiderProjects\task1.1\logic\bin\Debug\logic.dll
+C:\Users\user\RiderProjects\task1.1\logic\bin\Debug\logic.pdb
+C:\Users\user\RiderProjects\task1.1\logic\obj\Debug\logic.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\task1.1\logic\obj\Debug\logic.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\task1.1\logic\obj\Debug\logic.dll
+C:\Users\user\RiderProjects\task1.1\logic\obj\Debug\logic.pdb
